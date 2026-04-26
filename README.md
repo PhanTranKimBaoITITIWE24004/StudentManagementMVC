@@ -1,14 +1,20 @@
 STUDENT INFORMATION:
+
 Name: Phan Tran Kim Bao
+
 Student ID: ITITIWE24004
+
 Class: Web Application Development_S2_2025-26_G02_lab01
 
 COMPLETED EXERCISES:
+
 [x] Exercise 5: Search
+
 [x] Exercise 6: Validation
+
 [x] Exercise 7: Sorting & Filtering
+
 [X] Exercise 8: Pagination
-[ ] Bonus 1: Export Excel
 
 MVC COMPONENTS:
 - Model: Student.java
